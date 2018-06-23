@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">مجرد جافا</string>
+    <string name="name">الاسم</string>
+    <string name="topping">الاضافات</string>
+    <string name="whippedCream">كريمة مخفوقة</string>
+    <string name="chocolate">شيكولاتة</string>
+    <string name="quantity">الكمية</string>
+    <string name="order">اطلب</string>
+    <string name="addWhippedCream">مع إضافة الكريمة المخفوقة.</string>
+    <string name="addChocolate">مع إضافة الشيكولاتة.</string>
+    <string name="thankYou">شكرا على تعاملكم!</string>
+    <string name="orderSummaryMailSubject">مجرد جافا طلب من أجل <xliff:g id="subject" expample="Ahmed">%s</xliff:g></string>
+    <string name="orderSummaryName">الاسم: <xliff:g id="name" expample="Ahmed">%s</xliff:g></string>
+    <string name="orderSummaryQuantity">الكمية: <xliff:g id="quantity" expample="10">%d</xliff:g></string>
+    <string name="orderSummaryPrice">"السعر: $<xliff:g id="price" expample="10">%d</xliff:g>  "</string>
+</resources>
